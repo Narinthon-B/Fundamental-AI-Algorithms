@@ -11,10 +11,10 @@ Repository นี้รวบรวมการ Implement อัลกอริ�
 
 -   **[8-Puzzle](https://github.com/Narinthon-B/Fundamental-AI-Algorithms/blob/main/8-Puzzle/README.md):** การแก้ปัญหาตัวต่อ 8 ชิ้น โดยใช้เทคนิค Search และ Heuristics เพื่อหาเส้นทางที่สั้นที่สุดไปยังเป้าหมาย
     
--   **[Searching Algorithms](https://www.google.com/search?q=./Searching-algorithms):** การรวบรวมและเปรียบเทียบประสิทธิภาพของอัลกอริทึม BFS และ DFS ในการค้นหา
+-   **[Searching Algorithms](https://github.com/Narinthon-B/Fundamental-AI-Algorithms/blob/main/Searching-algorithms/README.md):** การรวบรวมและเปรียบเทียบประสิทธิภาพของอัลกอริทึม BFS และ DFS ในการค้นหา
     
--   **[Tower of Hanoi](https://www.google.com/search?q=./Tower-of-Hanoi):** การแก้ปัญหาโดยใช้แนวคิด **Recursion** และการบริหารจัดการ State Space
+-   **[Tower of Hanoi](https://github.com/Narinthon-B/Fundamental-AI-Algorithms/blob/main/Tower-of-Hanoi/README.md):** การแก้ปัญหาโดยใช้แนวคิด **Recursion** และการบริหารจัดการ State Space
     
--   **[Travelling Salesman (TSP)](https://www.google.com/search?q=./Travelling-Salesman):** การแก้ปัญหาการเลือกเส้นทางที่เหมาะสมที่สุด (Optimization) เพื่อหาเส้นทางที่สั้นที่สุดในการเดินทางผ่านจุดต่างๆ
+-   **[Travelling Salesman (TSP)](https://github.com/Narinthon-B/Fundamental-AI-Algorithms/blob/main/Travelling-Salesman/README.md):** การแก้ปัญหาการเลือกเส้นทางที่เหมาะสมที่สุด (Optimization) เพื่อหาเส้นทางที่สั้นที่สุดในการเดินทางผ่านจุดต่างๆ
     
--   **[XO-game (Tic-Tac-Toe)](https://www.google.com/search?q=./XO-game):** การสร้าง AI สำหรับเล่นเกมโดยใช้แนวคิด **Minimax Algorithm**
+-   **[XO-game (Tic-Tac-Toe)](https://github.com/Narinthon-B/Fundamental-AI-Algorithms/blob/main/XO-game/READEME.md):** การสร้าง AI สำหรับเล่นเกมโดยใช้แนวคิด **Minimax Algorithm**
