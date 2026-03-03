@@ -9,7 +9,7 @@ Repository นี้รวบรวมการ Implement อัลกอริ�
 
 ใน Repository นี้ประกอบไปด้วยหัวข้อที่น่าสนใจดังนี้:
 
--   **[8-Puzzle](https://www.google.com/search?q=./8-Puzzle):** การแก้ปัญหาตัวต่อ 8 ชิ้น โดยใช้เทคนิค Search และ Heuristics เพื่อหาเส้นทางที่สั้นที่สุดไปยังเป้าหมาย
+-   **[8-Puzzle](https://github.com/Narinthon-B/Fundamental-AI-Algorithms/blob/main/8-Puzzle/README.md):** การแก้ปัญหาตัวต่อ 8 ชิ้น โดยใช้เทคนิค Search และ Heuristics เพื่อหาเส้นทางที่สั้นที่สุดไปยังเป้าหมาย
     
 -   **[Searching Algorithms](https://www.google.com/search?q=./Searching-algorithms):** การรวบรวมและเปรียบเทียบประสิทธิภาพของอัลกอริทึม BFS และ DFS ในการค้นหา
     
