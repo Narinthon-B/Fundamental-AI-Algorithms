@@ -1,6 +1,6 @@
 # Tower of Hanoi
 
-## Problem Statement
+## Problem Description
 
 เรามีเสา 3 ต้น (A, B, C) และแผ่นดิสก์ที่มีขนาดต่างกัน $n$ แผ่น เป้าหมายคือย้ายดิสก์ทั้งหมดจากเสา A (Source) ไปยังเสา C (Target) โดยมีเงื่อนไขดังนี้:
 
